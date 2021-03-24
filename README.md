@@ -6,3 +6,7 @@ This is a simply project to demonstrate how Git and GitHub work together.
 ## Purpose
 ## Deployment
 ## How To Contribute
+
+### Copyright
+
+2021 Git.Training
